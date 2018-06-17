@@ -1,0 +1,23 @@
+{
+  "name": "notes_app",
+  "description": "A simple notes app with Grunt.js and CoffeeScript",
+  "main": "index.js",
+  "authors": [
+    "Diogo Souza"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gruntjs",
+    "coffeescript",
+    "npm",
+    "js"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
